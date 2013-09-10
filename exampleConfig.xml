@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<opencv_storage>
+  <kinect_id>B00366616109048B</kinect_id>
+  <!-- CALIBRATION DATA -->
+  <kinect_intrinsics>path/to/folder/rgbstereo_calibration_fixed_intrinsics.yaml</kinect_intrinsics>
+  <!-- BACKGROUND DATA -->
+  <background_data>path/to/data/folder/depthValues_B00366616109048B.data</background_data>
+  <background_frames_no>50</background_frames_no>
+  <!-- SUBJECT DATA -->
+  <depth_data>path/to/subject/folder/depthValues_B00366616109048B.data</depth_data>
+  <depth_info>path/to/subject/folder/depthInfo_B00366616109048B.txt</depth_info>
+  <color_data>path/to/subject/folder/colorValues_B00366616109048B.data</color_data>
+  <color_info>path/to/subject/folder/colorInfo_B00366616109048B.txt</color_info>
+  <!-- SAVE FOLDER -->
+  <save_folder>path/to/save/folder/pcds</save_folder>
+</opencv_storage>
